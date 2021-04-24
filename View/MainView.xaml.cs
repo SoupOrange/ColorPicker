@@ -19,7 +19,9 @@ namespace ColorPicker.View
     /// </summary>
     public partial class MainView : Window
     {
-
+        /// <summary>
+        /// 你好啊
+        /// </summary>
         public ViewModel.MainVM vm{ get; set; }
         public MainView()
         {
